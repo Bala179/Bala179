@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on investigating how temperature is linked to depression in the people of Malawi using ERA5-Land data.<br>🌱 I’m currently learning how to make end-to-end AI/ML applications by building on my existing Software Development and Machine Learning skills.<br>⚡ Fun fact: I enjoy listening to music and I make song mashups in my free time.
+🔭 I’m currently working on investigating how temperature is linked to depression in Malawi using ERA5-Land data.<br>🌱 I’m currently learning how to make end-to-end AI/ML applications by building on my existing Software Development and Machine Learning skills.<br>⚡ Fun fact: I enjoy listening to music and I make song mashups in my free time.
 
 
 ## 🌐 Socials:
